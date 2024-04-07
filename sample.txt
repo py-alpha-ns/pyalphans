@@ -1,1 +1,1 @@
-This is a sample file for tetsing merge conflict
+This is a file for testing merge conflict
